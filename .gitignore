@@ -3,3 +3,6 @@
 *.backup
 *.pem
 lambda_venv
+*.zip
+*.DS_Store
+*.backup
