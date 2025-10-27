@@ -4,7 +4,7 @@ module "network" {
   public_a_subnet_cidr  = "10.0.1.0/24"
   public_b_subnet_cidr  = "10.0.2.0/24"
   private_a_subnet_cidr = "10.0.3.0/24"
-  private_b_subnet_cidr = "10.0.4.0a/24"
+  private_b_subnet_cidr = "10.0.4.0/24"
   az_1                  = "us-east-2a"
   az_2                  = "us-east-2b"
   tag_name              = "vpc-test"
